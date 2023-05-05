@@ -7,5 +7,5 @@ Copy the contents of the output.lua into qb/qb-core/shared/vehicles.lua
 Thats it you will have your vehicle shared lua 
 
 NOTE: YOU WILL HAVE TO CHANGE THE Name , Price, Category, Shop 
-
-Any questions join our discord https://discord.gg/3vTm2NCR9U
+o
+Any questions join The Court Room Gaming & Development  discord https://discord.gg/3vTm2NCR9U
