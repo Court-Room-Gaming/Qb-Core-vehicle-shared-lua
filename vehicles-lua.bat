@@ -14,7 +14,7 @@ for %%f in (*.ytd) do (
     echo "    ['price'] = 20000, " >> %LUA_FILE%
     echo "    ['category'] = 'compacts', " >> %LUA_FILE%
     echo "    ['categoryLabel'] = 'Compacts', " >> %LUA_FILE%
-    echo "    ['hash'] = `!name!`, " >> %LUA_FILE%
+    echo "    ['hash'] = '!name!', " >> %LUA_FILE%
     echo "    ['shop'] = 'pdm', " >> %LUA_FILE%
     echo "}, " >> %LUA_FILE%
 )
