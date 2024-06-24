@@ -1,4 +1,4 @@
-# Qb-Core-vehicle-shared-lua
+# Qb-Core-vehicle-shared-lua New Format
 This .Bat file will create you a shared vehicle.lua with the current format 
 
 Copy all YDT files from your car pack/packs and and them into this file this folder. then start the .bat file. there will be a output.lua file that will be created
